@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T09:14:55.716Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="zqOAtjGJXW0dJpe7vO2W" version="22.1.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-12T10:50:51.481Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="uDfysfKqr4Gf0yTvMJej" version="22.1.7" type="github" pages="4">
   <diagram id="hwY74Udb4pTqE0XKJlq2" name="Page-1">
     <mxGraphModel dx="7000" dy="6860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#000000" math="0" shadow="0">
       <root>
@@ -355,7 +355,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="5aO8O_M8nc0ZkGNUCDWy" name="1. Create an account and login (Activity Diagram - Proposed system)">
+  <diagram id="5aO8O_M8nc0ZkGNUCDWy" name="1. Activity Diagram (Create an account and login) - Proposed system">
     <mxGraphModel dx="2625" dy="1335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
