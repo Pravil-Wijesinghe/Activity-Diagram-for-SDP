@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T18:53:45.253Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="I7oF3a7s8cAeA-xV1xRX" version="22.1.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-12-12T18:55:56.385Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="WeO1BgW2E7xtT6WzcjQ2" version="22.1.7" type="github" pages="6">
   <diagram id="hwY74Udb4pTqE0XKJlq2" name="Page-1">
     <mxGraphModel dx="7000" dy="6860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#000000" math="0" shadow="0">
       <root>
@@ -674,6 +674,14 @@
         <mxCell id="x_sfOVbWDIZoYr-ELrg4-24" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="1685" y="930" width="45" height="45" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KAHtDCmYlKdRAYa7BbIn" name="Activity Diagram 03 (Access patient&#39;s information) - Proposed system">
+    <mxGraphModel dx="1050" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
