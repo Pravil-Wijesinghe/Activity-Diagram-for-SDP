@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T11:13:47.451Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="oqKDEKaaXSiiAHAOzm19" version="22.1.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-12T11:18:10.248Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="3cYmsnV36T1sWhQJqw7Z" version="22.1.7" type="github" pages="4">
   <diagram id="hwY74Udb4pTqE0XKJlq2" name="Page-1">
     <mxGraphModel dx="7000" dy="6860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#000000" math="0" shadow="0">
       <root>
@@ -356,7 +356,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5aO8O_M8nc0ZkGNUCDWy" name="1. Activity Diagram (Create an account and login) - Proposed system">
-    <mxGraphModel dx="1500" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2625" dy="1335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -394,10 +394,10 @@
             <mxRectangle width="1212" height="2815" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-WO89cNi0hQbB35IO9x-40" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="510" y="260" width="30" height="30" as="geometry" />
+        <mxCell id="1-WO89cNi0hQbB35IO9x-40" value="" style="ellipse;html=1;shape=startState;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="510" y="253" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1-WO89cNi0hQbB35IO9x-41" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="1-WO89cNi0hQbB35IO9x-40" parent="1" target="1-WO89cNi0hQbB35IO9x-42">
+        <mxCell id="1-WO89cNi0hQbB35IO9x-41" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="1-WO89cNi0hQbB35IO9x-40" parent="1" target="1-WO89cNi0hQbB35IO9x-42">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1040" y="275" as="targetPoint" />
           </mxGeometry>
