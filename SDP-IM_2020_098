@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T11:18:10.248Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="3cYmsnV36T1sWhQJqw7Z" version="22.1.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-12T13:08:31.060Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="VLz22brsBlWH-7uEKnUG" version="22.1.7" type="github" pages="4">
   <diagram id="hwY74Udb4pTqE0XKJlq2" name="Page-1">
     <mxGraphModel dx="7000" dy="6860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#000000" math="0" shadow="0">
       <root>
@@ -453,14 +453,34 @@
         <mxCell id="CXNibZM3Avw2FctPKD7a-13" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
           <mxGeometry x="1671" y="447" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="CXNibZM3Avw2FctPKD7a-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CXNibZM3Avw2FctPKD7a-15" target="CXNibZM3Avw2FctPKD7a-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1180" y="870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CXNibZM3Avw2FctPKD7a-15" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Doctor&#39;s signup screen&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="630" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CXNibZM3Avw2FctPKD7a-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CXNibZM3Avw2FctPKD7a-17" target="CXNibZM3Avw2FctPKD7a-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CXNibZM3Avw2FctPKD7a-17" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Patient&#39;s signup screen&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1460" y="630" width="260" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="CXNibZM3Avw2FctPKD7a-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CXNibZM3Avw2FctPKD7a-19" target="CXNibZM3Avw2FctPKD7a-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1950" y="870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CXNibZM3Avw2FctPKD7a-19" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Receptionist&#39;s signup screen&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1830" y="630" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CXNibZM3Avw2FctPKD7a-22" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="830" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
