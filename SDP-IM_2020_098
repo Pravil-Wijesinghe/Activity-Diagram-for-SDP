@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T15:01:30.470Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="wDgo6L4p8N4psh_SH86x" version="22.1.8" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-12-13T15:07:42.251Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="dXxeoO7tnF2Oi75cJrA4" version="22.1.8" type="github" pages="7">
   <diagram id="hwY74Udb4pTqE0XKJlq2" name="Page-1">
     <mxGraphModel dx="7000" dy="6860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#000000" math="0" shadow="0">
       <root>
@@ -881,7 +881,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_Q1sZ1SqcOITRGMH_Air" name="Activity Diagram 04 (Login) - Proposed system">
-    <mxGraphModel dx="2100" dy="1068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2625" dy="1335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -922,8 +922,27 @@
             <mxPoint x="555" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Y3e9LqGzLxWIy1hm5Lnt-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y3e9LqGzLxWIy1hm5Lnt-1" target="Y3e9LqGzLxWIy1hm5Lnt-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Y3e9LqGzLxWIy1hm5Lnt-1" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Visit Website&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="465" y="350" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3e9LqGzLxWIy1hm5Lnt-2" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Have an account&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="460" y="560" width="220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3e9LqGzLxWIy1hm5Lnt-3" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;no&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="Y3e9LqGzLxWIy1hm5Lnt-2" parent="1" target="Y3e9LqGzLxWIy1hm5Lnt-7">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="810" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y3e9LqGzLxWIy1hm5Lnt-4" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;yes&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="Y3e9LqGzLxWIy1hm5Lnt-2" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="670" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y3e9LqGzLxWIy1hm5Lnt-7" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Sign up&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="600" width="210" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
