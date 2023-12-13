@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T17:51:38.126Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="WCsn_AJuljVRRT_pZN8E" version="22.1.8" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-12-13T19:16:20.561Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="VPpi56vsnOO_IJj8ZRHI" version="22.1.8" type="github" pages="7">
   <diagram id="hwY74Udb4pTqE0XKJlq2" name="Page-1">
     <mxGraphModel dx="7000" dy="6860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#000000" math="0" shadow="0">
       <root>
@@ -150,7 +150,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6p_QpY87U1wogF_D-5rV" name="Use-case(Proposed System)">
-    <mxGraphModel dx="5839" dy="1780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="4964" dy="1335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -296,10 +296,10 @@
           <mxGeometry x="-1880" y="80" width="1440" height="3120" as="geometry" />
         </mxCell>
         <mxCell id="J41oQ-45Sk7cZY5WrOIV-41" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Generate bill&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="J41oQ-45Sk7cZY5WrOIV-54" vertex="1">
-          <mxGeometry x="518.99" y="2320" width="551.25" height="140" as="geometry" />
+          <mxGeometry x="470" y="2410" width="551.25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="J41oQ-45Sk7cZY5WrOIV-42" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Update inventory&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="J41oQ-45Sk7cZY5WrOIV-54" vertex="1">
-          <mxGeometry x="402" y="2540" width="330" height="100" as="geometry" />
+          <mxGeometry x="290" y="2615" width="330" height="100" as="geometry" />
         </mxCell>
         <mxCell id="J41oQ-45Sk7cZY5WrOIV-43" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;include&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="J41oQ-45Sk7cZY5WrOIV-54" source="J41oQ-45Sk7cZY5WrOIV-41" target="J41oQ-45Sk7cZY5WrOIV-42" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -308,7 +308,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J41oQ-45Sk7cZY5WrOIV-44" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;print bill&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="J41oQ-45Sk7cZY5WrOIV-54" vertex="1">
-          <mxGeometry x="920" y="2555" width="200" height="70" as="geometry" />
+          <mxGeometry x="900" y="2630" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="J41oQ-45Sk7cZY5WrOIV-45" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;include&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="J41oQ-45Sk7cZY5WrOIV-54" source="J41oQ-45Sk7cZY5WrOIV-41" target="J41oQ-45Sk7cZY5WrOIV-44" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -317,16 +317,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J41oQ-45Sk7cZY5WrOIV-37" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;View diagnosis&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="J41oQ-45Sk7cZY5WrOIV-54" vertex="1">
-          <mxGeometry x="549.62" y="1950" width="490" height="148.48" as="geometry" />
+          <mxGeometry x="510.63" y="2070" width="490" height="148.48" as="geometry" />
         </mxCell>
         <mxCell id="J41oQ-45Sk7cZY5WrOIV-39" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;View and download medical records&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="J41oQ-45Sk7cZY5WrOIV-54" vertex="1">
-          <mxGeometry x="539.62" y="2140" width="510" height="134.21" as="geometry" />
+          <mxGeometry x="490.63" y="2240" width="510" height="134.21" as="geometry" />
         </mxCell>
         <mxCell id="J41oQ-45Sk7cZY5WrOIV-35" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Update queue status&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="J41oQ-45Sk7cZY5WrOIV-54" vertex="1">
-          <mxGeometry x="529.99" y="1770" width="551.25" height="140" as="geometry" />
+          <mxGeometry x="510.63" y="1880" width="551.25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="J41oQ-45Sk7cZY5WrOIV-34" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;View queue status&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="J41oQ-45Sk7cZY5WrOIV-54" vertex="1">
-          <mxGeometry x="539.6200000000001" y="1600" width="551.25" height="140" as="geometry" />
+          <mxGeometry x="518.9900000000001" y="1710" width="551.25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="J41oQ-45Sk7cZY5WrOIV-33" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Make or cancel appointments&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="J41oQ-45Sk7cZY5WrOIV-54" vertex="1">
           <mxGeometry x="539.6200000000001" y="1430" width="551.25" height="140" as="geometry" />
@@ -341,7 +341,7 @@
           <mxGeometry x="529.99" y="920" width="551.25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Nj2mHCj4-eoErBI9afCz-8" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Manage inventory&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="J41oQ-45Sk7cZY5WrOIV-54">
-          <mxGeometry x="518.99" y="2690" width="551.25" height="140" as="geometry" />
+          <mxGeometry x="518.99" y="2730" width="551.25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Nj2mHCj4-eoErBI9afCz-9" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Update Inventory&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="J41oQ-45Sk7cZY5WrOIV-54">
           <mxGeometry x="340" y="2940" width="330" height="100" as="geometry" />
@@ -918,7 +918,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OoBVr3xfcAWw1-4-0ZV4" name="Activity Diagram 04 (Update Doctor Availability) - Proposed system">
-    <mxGraphModel dx="3500" dy="1780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="3000" dy="1526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
