@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T13:00:59.792Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="HQF9oL04udafvp1-rWXK" version="22.1.8" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-12-13T13:03:09.716Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="wqxlk5t-ezy_rrUc7Lvd" version="22.1.8" type="github" pages="6">
   <diagram id="hwY74Udb4pTqE0XKJlq2" name="Page-1">
     <mxGraphModel dx="7000" dy="6860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#000000" math="0" shadow="0">
       <root>
@@ -678,7 +678,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KAHtDCmYlKdRAYa7BbIn" name="Activity Diagram 03 (Access patient&#39;s information) - Proposed system">
-    <mxGraphModel dx="3500" dy="1780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2333" dy="1187" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -760,11 +760,11 @@
         <mxCell id="ZM93Hc51cjPO6w5ljCi3-7" value="&lt;span style=&quot;font-size: 32px;&quot;&gt;search a patient&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="328.75" y="700" width="262.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZM93Hc51cjPO6w5ljCi3-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZM93Hc51cjPO6w5ljCi3-8">
+        <mxCell id="ZM93Hc51cjPO6w5ljCi3-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZM93Hc51cjPO6w5ljCi3-8" target="_k3AfxaSQ5el0Ww8qkH1-25">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1215.63" y="1110" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1075" y="1110" />
+              <mxPoint x="1075" y="1150" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -773,6 +773,9 @@
         </mxCell>
         <mxCell id="ZM93Hc51cjPO6w5ljCi3-15" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Update diagnosis?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="1385" y="650" width="259.37" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_k3AfxaSQ5el0Ww8qkH1-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_k3AfxaSQ5el0Ww8qkH1-1" target="_k3AfxaSQ5el0Ww8qkH1-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_k3AfxaSQ5el0Ww8qkH1-1" value="&lt;span style=&quot;font-size: 32px;&quot;&gt;Update diagnosis&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1364.06" y="940" width="301.25" height="60" as="geometry" />
@@ -801,8 +804,18 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_k3AfxaSQ5el0Ww8qkH1-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_k3AfxaSQ5el0Ww8qkH1-24" target="_k3AfxaSQ5el0Ww8qkH1-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1945" y="1150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_k3AfxaSQ5el0Ww8qkH1-24" value="&lt;span style=&quot;font-size: 32px;&quot;&gt;Update patient&#39;s records&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1754.69" y="940" width="380.62" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_k3AfxaSQ5el0Ww8qkH1-25" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1474.68" y="1110" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
