@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T17:45:48.960Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="J6LeSsjAl4LEE1gdfRsq" version="22.1.8" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-12-13T17:51:38.126Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="WCsn_AJuljVRRT_pZN8E" version="22.1.8" type="github" pages="7">
   <diagram id="hwY74Udb4pTqE0XKJlq2" name="Page-1">
     <mxGraphModel dx="7000" dy="6860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#000000" math="0" shadow="0">
       <root>
@@ -917,75 +917,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="_Q1sZ1SqcOITRGMH_Air" name="Activity Diagram 04 (Login) - Proposed system">
-    <mxGraphModel dx="2625" dy="1335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="NjpeL--lIq6Ktckof2ZS-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="80" y="80" width="2160" height="2794" as="geometry" />
-        </mxCell>
-        <mxCell id="NjpeL--lIq6Ktckof2ZS-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="NjpeL--lIq6Ktckof2ZS-1">
-          <mxGeometry width="2160" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="NjpeL--lIq6Ktckof2ZS-3" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;User&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NjpeL--lIq6Ktckof2ZS-2">
-          <mxGeometry width="1020" height="90" as="geometry">
-            <mxRectangle width="1020" height="90" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NjpeL--lIq6Ktckof2ZS-4" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;System&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NjpeL--lIq6Ktckof2ZS-2">
-          <mxGeometry x="1020" width="1140" height="90" as="geometry">
-            <mxRectangle width="1140" height="90" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NjpeL--lIq6Ktckof2ZS-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="NjpeL--lIq6Ktckof2ZS-1">
-          <mxGeometry y="90" width="2160" height="2704" as="geometry" />
-        </mxCell>
-        <mxCell id="NjpeL--lIq6Ktckof2ZS-6" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NjpeL--lIq6Ktckof2ZS-5">
-          <mxGeometry width="1020" height="2704" as="geometry">
-            <mxRectangle width="1020" height="2704" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NjpeL--lIq6Ktckof2ZS-7" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NjpeL--lIq6Ktckof2ZS-5">
-          <mxGeometry x="1020" width="1140" height="2704" as="geometry">
-            <mxRectangle width="1140" height="2704" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NjpeL--lIq6Ktckof2ZS-8" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="540" y="210" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NjpeL--lIq6Ktckof2ZS-9" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="NjpeL--lIq6Ktckof2ZS-8" parent="1" target="Y3e9LqGzLxWIy1hm5Lnt-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="555" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Y3e9LqGzLxWIy1hm5Lnt-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y3e9LqGzLxWIy1hm5Lnt-1" target="Y3e9LqGzLxWIy1hm5Lnt-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Y3e9LqGzLxWIy1hm5Lnt-1" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Visit Website&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="465" y="350" width="210" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Y3e9LqGzLxWIy1hm5Lnt-2" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Have an account&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="460" y="560" width="220" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="Y3e9LqGzLxWIy1hm5Lnt-3" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;no&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="Y3e9LqGzLxWIy1hm5Lnt-2" parent="1" target="Y3e9LqGzLxWIy1hm5Lnt-7">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="810" y="600" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Y3e9LqGzLxWIy1hm5Lnt-4" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;yes&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="Y3e9LqGzLxWIy1hm5Lnt-2" parent="1">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="670" y="680" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Y3e9LqGzLxWIy1hm5Lnt-7" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Sign up&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="600" width="210" height="60" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="OoBVr3xfcAWw1-4-0ZV4" name="Activity Diagram 05 (Update Doctor Availability) - Proposed system">
-    <mxGraphModel dx="3000" dy="1526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+  <diagram id="OoBVr3xfcAWw1-4-0ZV4" name="Activity Diagram 04 (Update Doctor Availability) - Proposed system">
+    <mxGraphModel dx="3500" dy="1780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
