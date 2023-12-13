@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T15:15:32.932Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="q0CBH6ik1M_21AFWNDkw" version="22.1.8" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-12-13T15:22:32.063Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="M8E0o41FAE7O7YE3z8qy" version="22.1.8" type="github" pages="8">
   <diagram id="hwY74Udb4pTqE0XKJlq2" name="Page-1">
     <mxGraphModel dx="7000" dy="6860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#000000" math="0" shadow="0">
       <root>
@@ -948,7 +948,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OoBVr3xfcAWw1-4-0ZV4" name="Activity Diagram 05 (Update Doctor Availability) - Proposed system">
-    <mxGraphModel dx="7000" dy="3560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="3000" dy="1526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -958,12 +958,12 @@
         <mxCell id="u_bbYNSkfgfHrzyts-P9-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="u_bbYNSkfgfHrzyts-P9-1">
           <mxGeometry width="2180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="u_bbYNSkfgfHrzyts-P9-3" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="u_bbYNSkfgfHrzyts-P9-2">
+        <mxCell id="u_bbYNSkfgfHrzyts-P9-3" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Doctor, Receptionist&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="u_bbYNSkfgfHrzyts-P9-2">
           <mxGeometry width="850" height="80" as="geometry">
             <mxRectangle width="850" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u_bbYNSkfgfHrzyts-P9-4" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="u_bbYNSkfgfHrzyts-P9-2">
+        <mxCell id="u_bbYNSkfgfHrzyts-P9-4" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;System&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="u_bbYNSkfgfHrzyts-P9-2">
           <mxGeometry x="850" width="1330" height="80" as="geometry">
             <mxRectangle width="1330" height="80" as="alternateBounds" />
           </mxGeometry>
@@ -986,6 +986,17 @@
             <mxGeometry x="2450" y="160" width="2090.78" height="2930" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="u_bbYNSkfgfHrzyts-P9-9" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="460" y="230" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="u_bbYNSkfgfHrzyts-P9-10" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="u_bbYNSkfgfHrzyts-P9-9" parent="1" target="u_bbYNSkfgfHrzyts-P9-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="475" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u_bbYNSkfgfHrzyts-P9-11" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Log in&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="397.5" y="420" width="195" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
