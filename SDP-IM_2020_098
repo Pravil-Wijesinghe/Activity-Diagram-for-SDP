@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T02:46:21.845Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="qkm7CwSIkEfrh0vEmeaE" version="22.1.8" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-12-13T07:54:41.973Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="3dlaSCRprfLMDQwQ425i" version="22.1.8" type="github" pages="6">
   <diagram id="hwY74Udb4pTqE0XKJlq2" name="Page-1">
     <mxGraphModel dx="7000" dy="6860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#000000" math="0" shadow="0">
       <root>
@@ -678,7 +678,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KAHtDCmYlKdRAYa7BbIn" name="Activity Diagram 03 (Access patient&#39;s information) - Proposed system">
-    <mxGraphModel dx="4200" dy="2136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1909" dy="971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -731,16 +731,16 @@
           <mxGeometry x="327.5" y="490" width="415" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZM93Hc51cjPO6w5ljCi3-4" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Prescribe medicine?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="630" width="280" height="160" as="geometry" />
+          <mxGeometry x="1150.62" y="640" width="280" height="160" as="geometry" />
         </mxCell>
         <mxCell id="ZM93Hc51cjPO6w5ljCi3-5" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;no&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="ZM93Hc51cjPO6w5ljCi3-4" parent="1">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="1490" y="770" as="targetPoint" />
+            <mxPoint x="1580.62" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZM93Hc51cjPO6w5ljCi3-6" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;yes&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="ZM93Hc51cjPO6w5ljCi3-4" parent="1" target="ZM93Hc51cjPO6w5ljCi3-8">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="1350" y="850" as="targetPoint" />
+            <mxPoint x="1440.62" y="860" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -748,7 +748,7 @@
           <mxGeometry x="403.75" y="670" width="262.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZM93Hc51cjPO6w5ljCi3-8" value="&lt;span style=&quot;font-size: 32px;&quot;&gt;Prescribe medicine&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1049.38" y="910" width="301.25" height="60" as="geometry" />
+          <mxGeometry x="1140" y="920" width="301.25" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
