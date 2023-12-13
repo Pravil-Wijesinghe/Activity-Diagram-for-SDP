@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T19:16:20.561Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="VPpi56vsnOO_IJj8ZRHI" version="22.1.8" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-12-13T21:06:51.739Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="AKZSs6eRgWhteeNIRCy7" version="22.1.8" type="github" pages="7">
   <diagram id="hwY74Udb4pTqE0XKJlq2" name="Page-1">
     <mxGraphModel dx="7000" dy="6860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#000000" math="0" shadow="0">
       <root>
@@ -918,7 +918,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OoBVr3xfcAWw1-4-0ZV4" name="Activity Diagram 04 (Update Doctor Availability) - Proposed system">
-    <mxGraphModel dx="3000" dy="1526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2625" dy="1335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -964,8 +964,24 @@
             <mxPoint x="475" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="y9X6BjXWQnYpBR7wp0of-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u_bbYNSkfgfHrzyts-P9-11" target="y9X6BjXWQnYpBR7wp0of-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="u_bbYNSkfgfHrzyts-P9-11" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Log in&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="397.5" y="420" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y9X6BjXWQnYpBR7wp0of-1" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Log in succesfully&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="335" y="680" width="320" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="y9X6BjXWQnYpBR7wp0of-2" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;no&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="y9X6BjXWQnYpBR7wp0of-1" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="760" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y9X6BjXWQnYpBR7wp0of-3" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="y9X6BjXWQnYpBR7wp0of-1" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="620" y="900" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
