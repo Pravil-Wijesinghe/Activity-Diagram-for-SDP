@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-14T22:17:18.007Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="3D--wSATO1q5OKRbULRz" version="22.1.8" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-12-14T22:19:18.536Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="TGjO7R2WxH6c4_9mhUXU" version="22.1.8" type="github" pages="14">
   <diagram id="hwY74Udb4pTqE0XKJlq2" name="Page-1">
     <mxGraphModel dx="5250" dy="5970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#000000" math="0" shadow="0">
       <root>
@@ -1482,7 +1482,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bDo1IUuI2De2F4MXvsP2" name="Activity Diagram 10 (Generate Bill) - Proposed system">
-    <mxGraphModel dx="5250" dy="2670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2100" dy="1068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1609,6 +1609,17 @@
             <mxGeometry x="2390" y="40" width="632.39" height="1040" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="TEHLa0n4rhNwVy-1Q9Gp-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="450" y="210" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TEHLa0n4rhNwVy-1Q9Gp-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TEHLa0n4rhNwVy-1Q9Gp-1" target="TEHLa0n4rhNwVy-1Q9Gp-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="505" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TEHLa0n4rhNwVy-1Q9Gp-3" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Log in&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="420" width="150" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
