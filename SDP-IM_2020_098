@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-14T16:45:07.611Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Ixy5ZLXa2bGS1V7Jmv6o" version="22.1.8" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-12-14T16:46:45.468Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ndfAe6iqrAo-vRPPsHam" version="22.1.8" type="github" pages="13">
   <diagram id="hwY74Udb4pTqE0XKJlq2" name="Page-1">
     <mxGraphModel dx="5250" dy="5970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#000000" math="0" shadow="0">
       <root>
@@ -1388,7 +1388,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PWyvRPoohq02V9qPX3R6" name="Activity Diagram 09 (View Diagnosis) - Proposed system">
-    <mxGraphModel dx="3000" dy="1526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2625" dy="1335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1440,9 +1440,6 @@
         <mxCell id="cYJKfkT6w7U0z9StjTmG-3" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Log in&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="410" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cYJKfkT6w7U0z9StjTmG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cYJKfkT6w7U0z9StjTmG-4" target="cYJKfkT6w7U0z9StjTmG-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="cYJKfkT6w7U0z9StjTmG-4" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Select view medical records&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="357.5" y="597.5" width="415" height="60" as="geometry" />
         </mxCell>
@@ -1450,10 +1447,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cYJKfkT6w7U0z9StjTmG-6" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;View diagnosis&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="597.5" width="320" height="60" as="geometry" />
+          <mxGeometry x="1450" y="1390" width="530" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cYJKfkT6w7U0z9StjTmG-8" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="810" width="60" height="60" as="geometry" />
+          <mxGeometry x="1685" y="1882.5" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
