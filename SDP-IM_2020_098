@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-14T12:02:32.327Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="vb0hm2SPn-RSWspqzhvT" version="22.1.8" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-12-14T12:03:08.512Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Y8r76ZKJO6RCTYzvo0q5" version="22.1.8" type="github" pages="12">
   <diagram id="hwY74Udb4pTqE0XKJlq2" name="Page-1">
     <mxGraphModel dx="5250" dy="5970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#000000" math="0" shadow="0">
       <root>
@@ -1399,6 +1399,14 @@
         <mxCell id="uCP8N-M-w6KEhVkuP0th-16" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="1490" y="890" width="60" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="PWyvRPoohq02V9qPX3R6" name="Activity Diagram 09 (View Diagnosis) - Proposed system">
+    <mxGraphModel dx="1500" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
