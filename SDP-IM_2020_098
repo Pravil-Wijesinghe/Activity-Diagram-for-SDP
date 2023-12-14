@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-14T09:37:45.468Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="SocXecuM0uH2fc_3VcM6" version="22.1.8" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-12-14T10:19:23.746Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="emDa1b6kVVTI_z07OAwj" version="22.1.8" type="github" pages="9">
   <diagram id="hwY74Udb4pTqE0XKJlq2" name="Page-1">
     <mxGraphModel dx="5250" dy="5970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#000000" math="0" shadow="0">
       <root>
@@ -1107,7 +1107,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="35KYmzNLIGGl14f-Th4M" name="Activity Diagram 06 (Make or cancel appointment) - Proposed system">
-    <mxGraphModel dx="3000" dy="1526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2625" dy="1335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1148,9 +1148,9 @@
             <mxPoint x="1175" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GIZNdw1LY3k4Mov34wYK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GIZNdw1LY3k4Mov34wYK-4" target="f95Hgf9XpO_LqN0NLviJ-1">
+        <mxCell id="GIZNdw1LY3k4Mov34wYK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GIZNdw1LY3k4Mov34wYK-4" target="f95Hgf9XpO_LqN0NLviJ-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="740" as="targetPoint" />
+            <mxPoint x="560" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GIZNdw1LY3k4Mov34wYK-4" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Log in&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1161,12 +1161,6 @@
             <mxGeometry x="2400" y="50" width="2231.33" height="2010" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="f95Hgf9XpO_LqN0NLviJ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="f95Hgf9XpO_LqN0NLviJ-1" target="f95Hgf9XpO_LqN0NLviJ-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="f95Hgf9XpO_LqN0NLviJ-1" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Click make an appointment&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="347.5" y="760" width="425" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="f95Hgf9XpO_LqN0NLviJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="f95Hgf9XpO_LqN0NLviJ-2" target="f95Hgf9XpO_LqN0NLviJ-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -1175,16 +1169,33 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="f95Hgf9XpO_LqN0NLviJ-2" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;View available appointments&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="760" width="430" height="60" as="geometry" />
+          <mxGeometry x="1450" y="750" width="430" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f95Hgf9XpO_LqN0NLviJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f95Hgf9XpO_LqN0NLviJ-3" target="f95Hgf9XpO_LqN0NLviJ-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f95Hgf9XpO_LqN0NLviJ-3" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Choose appontment&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="397.5" y="1040" width="325" height="60" as="geometry" />
+          <mxGeometry x="770" y="1040" width="325" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f95Hgf9XpO_LqN0NLviJ-6" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Confirm appontment&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="397.5" y="1280" width="325" height="60" as="geometry" />
+          <mxGeometry x="770" y="1300" width="325" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f95Hgf9XpO_LqN0NLviJ-8" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Make an appointment&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="410" y="710" width="300" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="f95Hgf9XpO_LqN0NLviJ-9" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;yes&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="f95Hgf9XpO_LqN0NLviJ-8" parent="1" target="f95Hgf9XpO_LqN0NLviJ-2">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="1510" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f95Hgf9XpO_LqN0NLviJ-10" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;no&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="f95Hgf9XpO_LqN0NLviJ-8" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="1370" y="1110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="940" />
+              <mxPoint x="1370" y="940" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
