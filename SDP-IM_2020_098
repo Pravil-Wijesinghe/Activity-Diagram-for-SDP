@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-14T11:39:07.300Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="oj7EYYpnIftljy7AX56q" version="22.1.8" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-12-14T11:40:52.694Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="0otHAS1R42rHlfDPvq0Q" version="22.1.8" type="github" pages="11">
   <diagram id="hwY74Udb4pTqE0XKJlq2" name="Page-1">
     <mxGraphModel dx="5250" dy="5970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#000000" math="0" shadow="0">
       <root>
@@ -1332,10 +1332,39 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gQX_putBwqKujy9ebpOz" name="Activity Diagram 08 (Update Queue Status) - Proposed system">
-    <mxGraphModel dx="1050" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="3000" dy="1526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uCP8N-M-w6KEhVkuP0th-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="2240" height="2230" as="geometry" />
+        </mxCell>
+        <mxCell id="uCP8N-M-w6KEhVkuP0th-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="uCP8N-M-w6KEhVkuP0th-1">
+          <mxGeometry width="2240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uCP8N-M-w6KEhVkuP0th-3" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Receptionist&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="uCP8N-M-w6KEhVkuP0th-2">
+          <mxGeometry width="1120" height="70" as="geometry">
+            <mxRectangle width="1120" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uCP8N-M-w6KEhVkuP0th-4" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;System&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="uCP8N-M-w6KEhVkuP0th-2">
+          <mxGeometry x="1120" width="1120" height="70" as="geometry">
+            <mxRectangle width="1120" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uCP8N-M-w6KEhVkuP0th-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="uCP8N-M-w6KEhVkuP0th-1">
+          <mxGeometry y="70" width="2240" height="2160" as="geometry" />
+        </mxCell>
+        <mxCell id="uCP8N-M-w6KEhVkuP0th-6" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="uCP8N-M-w6KEhVkuP0th-5">
+          <mxGeometry width="1120" height="2160" as="geometry">
+            <mxRectangle width="1120" height="2160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uCP8N-M-w6KEhVkuP0th-7" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="uCP8N-M-w6KEhVkuP0th-5">
+          <mxGeometry x="1120" width="1120" height="2160" as="geometry">
+            <mxRectangle width="1120" height="2160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
