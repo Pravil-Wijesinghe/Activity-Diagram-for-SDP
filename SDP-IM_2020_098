@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-14T08:10:00.042Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="-qow9mGN7dJq3YBHPWMn" version="22.1.8" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-12-14T09:16:35.035Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="TC3MgJv5pp84Z2rGgsAy" version="22.1.8" type="github" pages="9">
   <diagram id="hwY74Udb4pTqE0XKJlq2" name="Page-1">
     <mxGraphModel dx="1050" dy="3834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#000000" math="0" shadow="0">
       <root>
@@ -1107,11 +1107,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="35KYmzNLIGGl14f-Th4M" name="Activity Diagram 06 (Make or cancel appointment) - Proposed system">
-    <mxGraphModel dx="5250" dy="2670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="3500" dy="1780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DfDv8qKOSRvgmUpbLgBw-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+        <mxCell id="DfDv8qKOSRvgmUpbLgBw-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="2240" height="2935" as="geometry" />
         </mxCell>
         <mxCell id="DfDv8qKOSRvgmUpbLgBw-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="DfDv8qKOSRvgmUpbLgBw-1">
