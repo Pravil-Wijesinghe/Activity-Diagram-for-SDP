@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T11:58:36.926Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="25CMSadNPC03qN3FCm70" version="22.1.8" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-12-15T12:00:51.492Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="zuZ7rRODxlq14-kEIir9" version="22.1.8" type="github" pages="14">
   <diagram id="hwY74Udb4pTqE0XKJlq2" name="Page-1">
     <mxGraphModel dx="5250" dy="5970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#000000" math="0" shadow="0">
       <root>
@@ -1000,96 +1000,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="-SeJVvB7dwd1Hed9oaWl" name="Activity Diagram 05 (Check doctor availability) - Proposed system">
-    <mxGraphModel dx="2625" dy="1335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="cN32aL0lat0MnffRhRfP-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="80" width="2160" height="1560" as="geometry" />
-        </mxCell>
-        <mxCell id="cN32aL0lat0MnffRhRfP-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="cN32aL0lat0MnffRhRfP-1" vertex="1">
-          <mxGeometry width="2160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cN32aL0lat0MnffRhRfP-3" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Patient&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="cN32aL0lat0MnffRhRfP-2" vertex="1">
-          <mxGeometry width="930" height="40" as="geometry">
-            <mxRectangle width="930" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cN32aL0lat0MnffRhRfP-4" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;System&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="cN32aL0lat0MnffRhRfP-2" vertex="1">
-          <mxGeometry x="930" width="1230" height="40" as="geometry">
-            <mxRectangle width="1230" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cN32aL0lat0MnffRhRfP-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="cN32aL0lat0MnffRhRfP-1" vertex="1">
-          <mxGeometry y="40" width="2160" height="1520" as="geometry" />
-        </mxCell>
-        <mxCell id="cN32aL0lat0MnffRhRfP-6" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="cN32aL0lat0MnffRhRfP-5" vertex="1">
-          <mxGeometry width="930" height="1520" as="geometry">
-            <mxRectangle width="930" height="1520" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cN32aL0lat0MnffRhRfP-7" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="cN32aL0lat0MnffRhRfP-5" vertex="1">
-          <mxGeometry x="930" width="1230" height="1520" as="geometry">
-            <mxRectangle width="1230" height="1520" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MgAUKfWB1_yRPTfC9ms0-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="490" y="210" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="MgAUKfWB1_yRPTfC9ms0-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="MgAUKfWB1_yRPTfC9ms0-1" parent="1" target="MgKNRPQfqtWoMa1WsCCU-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1145" y="850" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MgKNRPQfqtWoMa1WsCCU-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MgKNRPQfqtWoMa1WsCCU-2" target="MgKNRPQfqtWoMa1WsCCU-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MgKNRPQfqtWoMa1WsCCU-2" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Log in&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="432.5" y="420" width="195" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MgKNRPQfqtWoMa1WsCCU-3" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Log in succesfully&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="370" y="680" width="320" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="MgKNRPQfqtWoMa1WsCCU-4" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;yes&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MgKNRPQfqtWoMa1WsCCU-3" target="zyy2zh5yhIN0YiHoPg7d-1">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="1165" y="760" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MgKNRPQfqtWoMa1WsCCU-5" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;no&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MgKNRPQfqtWoMa1WsCCU-3" target="fuqN1lWSoR6X4odLL41K-2">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="1225" y="1240" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="530" y="1310" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fuqN1lWSoR6X4odLL41K-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zyy2zh5yhIN0YiHoPg7d-1" target="W9UMT1d8yW_16nwOJHEx-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zyy2zh5yhIN0YiHoPg7d-1" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;View dashboard&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="730" width="290" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="fuqN1lWSoR6X4odLL41K-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="W9UMT1d8yW_16nwOJHEx-1" target="fuqN1lWSoR6X4odLL41K-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="W9UMT1d8yW_16nwOJHEx-1" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;View doctor availability&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="1060" width="390" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="fuqN1lWSoR6X4odLL41K-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fuqN1lWSoR6X4odLL41K-2" target="fuqN1lWSoR6X4odLL41K-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fuqN1lWSoR6X4odLL41K-2" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1545" y="1270" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="fuqN1lWSoR6X4odLL41K-4" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="1470" width="50" height="50" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
   <diagram id="35KYmzNLIGGl14f-Th4M" name="Activity Diagram 06 (Make or cancel appointment) - Proposed system">
-    <mxGraphModel dx="4200" dy="2136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2600" dy="1343" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1222,7 +1134,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PYgUtaHVrJRvDoZkW_GY" name="Activity Diagram 07 (View queue status) - Proposed system">
-    <mxGraphModel dx="5250" dy="2670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="4550" dy="2350" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1314,7 +1226,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gQX_putBwqKujy9ebpOz" name="Activity Diagram 08 (Update Queue Status) - Proposed system">
-    <mxGraphModel dx="1750" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1517" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
