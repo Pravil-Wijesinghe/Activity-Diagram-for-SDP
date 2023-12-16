@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-16T06:42:12.007Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="FuaSV1x4tVQ8zJpjTF85" version="22.1.8" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-12-16T06:47:05.025Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ANGnn7n-fSbWUCDBqGaM" version="22.1.8" type="github" pages="15">
   <diagram id="hwY74Udb4pTqE0XKJlq2" name="Page-1">
     <mxGraphModel dx="5250" dy="5970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#000000" math="0" shadow="0">
       <root>
@@ -2226,6 +2226,14 @@
             <mxPoint x="-4" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Ae2u5tx3CgAx0yrwosyZ" name="Interface Class Diagram">
+    <mxGraphModel dx="910" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
