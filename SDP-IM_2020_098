@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T05:01:48.346Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="XqKCzc3i4zug9vtyIzLk" version="22.1.11" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-12-18T05:03:28.506Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="KVno8WZfU2ez70jrcSU5" version="22.1.11" type="github" pages="15">
   <diagram id="hwY74Udb4pTqE0XKJlq2" name="Page-1">
     <mxGraphModel dx="5250" dy="5970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#000000" math="0" shadow="0">
       <root>
@@ -386,7 +386,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5aO8O_M8nc0ZkGNUCDWy" name="Activity Diagram 01 (Create an account and login) - Proposed system">
-    <mxGraphModel dx="4200" dy="2136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="4953" dy="2553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -504,7 +504,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xu4nLlpm6YQvNzNtln37-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CXNibZM3Avw2FctPKD7a-22" target="xu4nLlpm6YQvNzNtln37-4">
+        <mxCell id="xu4nLlpm6YQvNzNtln37-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CXNibZM3Avw2FctPKD7a-22" target="xu4nLlpm6YQvNzNtln37-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CXNibZM3Avw2FctPKD7a-22" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -533,7 +533,7 @@
         <mxCell id="2a7br3-hlqLo1gXX9atk-3" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Successfully signup ?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1140" y="1563.5" width="274.5" height="183" as="geometry" />
         </mxCell>
-        <mxCell id="xu4nLlpm6YQvNzNtln37-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2a7br3-hlqLo1gXX9atk-4" target="xu4nLlpm6YQvNzNtln37-4">
+        <mxCell id="xu4nLlpm6YQvNzNtln37-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2a7br3-hlqLo1gXX9atk-4" target="xu4nLlpm6YQvNzNtln37-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1940" y="1455" />
@@ -543,7 +543,7 @@
         <mxCell id="2a7br3-hlqLo1gXX9atk-4" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;Show signup&amp;nbsp;&lt;/font&gt;failed&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1790" y="1625" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xu4nLlpm6YQvNzNtln37-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2a7br3-hlqLo1gXX9atk-6" target="xu4nLlpm6YQvNzNtln37-7">
+        <mxCell id="xu4nLlpm6YQvNzNtln37-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2a7br3-hlqLo1gXX9atk-6" target="xu4nLlpm6YQvNzNtln37-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2a7br3-hlqLo1gXX9atk-6" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;Show signup successfull&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -652,13 +652,13 @@
         <mxCell id="VzbbjZvcq6YhwqEHuU1h-22" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Show website&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1497.45" y="2420" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xu4nLlpm6YQvNzNtln37-4" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xu4nLlpm6YQvNzNtln37-4" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1560" y="1415" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xu4nLlpm6YQvNzNtln37-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xu4nLlpm6YQvNzNtln37-7" target="2a7br3-hlqLo1gXX9atk-12">
+        <mxCell id="xu4nLlpm6YQvNzNtln37-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xu4nLlpm6YQvNzNtln37-7" target="2a7br3-hlqLo1gXX9atk-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xu4nLlpm6YQvNzNtln37-7" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xu4nLlpm6YQvNzNtln37-7" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="820" y="2010" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
@@ -1386,7 +1386,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bDo1IUuI2De2F4MXvsP2" name="Activity Diagram 10 (Generate Bill) - Proposed system">
-    <mxGraphModel dx="2477" dy="1277" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="3715" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
