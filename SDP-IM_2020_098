@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T01:37:46.086Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="1xwY9X43Tc7ykH5Hjnjp" version="22.1.11" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-12-20T01:43:15.036Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Rj5nHxXpS6Y9DX075RHs" version="22.1.11" type="github" pages="15">
   <diagram id="hwY74Udb4pTqE0XKJlq2" name="Page-1">
     <mxGraphModel dx="5250" dy="5970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#000000" math="0" shadow="0">
       <root>
@@ -2484,7 +2484,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ae2u5tx3CgAx0yrwosyZ" name="Interface Class Diagram">
-    <mxGraphModel dx="2333" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1218" dy="1158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2541,8 +2541,11 @@
             <mxPoint x="1215" y="1430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z0g3L6iIOSp3KCa-PxZi-6" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 32px;&quot;&gt;&lt;i style=&quot;font-size: 32px;&quot;&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;Appointment&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 32px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ appointmentID: string&lt;br style=&quot;font-size: 32px;&quot;&gt;+ date: date&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ time: time&lt;/p&gt;&lt;hr style=&quot;font-size: 32px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ get_name: string&lt;br style=&quot;font-size: 32px;&quot;&gt;+ set_description: string&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=32;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="260" y="2000" width="530" height="410" as="geometry" />
+        <mxCell id="z0g3L6iIOSp3KCa-PxZi-6" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 32px;&quot;&gt;&lt;i style=&quot;font-size: 32px;&quot;&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;Appointment&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 32px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ appointmentID: string&lt;br style=&quot;font-size: 32px;&quot;&gt;+ date: date&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ time: time&lt;/p&gt;&lt;hr style=&quot;font-size: 32px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ get_appointmentID: string&lt;br style=&quot;font-size: 32px;&quot;&gt;+ get_date: date&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+get_time: time&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+setAppointment Status&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=32;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="260" y="2000" width="530" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="z0g3L6iIOSp3KCa-PxZi-7" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 32px;&quot;&gt;&lt;i style=&quot;font-size: 32px;&quot;&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;Prescription&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 32px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ prescriptionID: string&lt;br style=&quot;font-size: 32px;&quot;&gt;+ medicine_name: date&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ : time&lt;/p&gt;&lt;hr style=&quot;font-size: 32px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ get_appointmentID: string&lt;br style=&quot;font-size: 32px;&quot;&gt;+ get_date: date&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+get_time: time&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+setAppointment Status&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=32;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="270" y="2520" width="530" height="430" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
