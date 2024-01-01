@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-01T18:59:53.389Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="QyCZjyWlf4rf8gF-bmto" version="22.1.16" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2024-01-01T19:03:30.123Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="9qpfg3RUrhf9X9dZNsJ3" version="22.1.16" type="github" pages="16">
   <diagram id="hwY74Udb4pTqE0XKJlq2" name="Page-1">
     <mxGraphModel dx="550" dy="3822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#000000" math="0" shadow="0">
       <root>
@@ -1630,7 +1630,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Bw1p6z_LUnUgU8gQtLq6" name="ER Diagram">
-    <mxGraphModel dx="2477" dy="1277" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="4953" dy="2553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2541,7 +2541,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ae2u5tx3CgAx0yrwosyZ" name="Interface Class Diagram">
-    <mxGraphModel dx="2625" dy="1305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2972" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2584,8 +2584,8 @@
             <mxPoint x="1120" y="1350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z0g3L6iIOSp3KCa-PxZi-4" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 32px;&quot;&gt;&lt;i style=&quot;font-size: 32px;&quot;&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;Family Member&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 32px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ memberID: string&lt;br style=&quot;font-size: 32px;&quot;&gt;+ name: string&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ dob: date&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ gender: string&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 32px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ set_description: string&lt;br style=&quot;font-size: 32px;&quot;&gt;+ AddMedicalReports()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=32;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="855" y="1680" width="530" height="410" as="geometry" />
+        <mxCell id="z0g3L6iIOSp3KCa-PxZi-4" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 32px;&quot;&gt;&lt;i style=&quot;font-size: 32px;&quot;&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;Family Member&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 32px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ memberID: string&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ relationship: string&lt;br style=&quot;font-size: 32px;&quot;&gt;+ name: string&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ dob: date&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ gender: string&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 32px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ set_description: string&lt;br style=&quot;font-size: 32px;&quot;&gt;+ AddMedicalReports()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=32;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="855" y="1680" width="530" height="430" as="geometry" />
         </mxCell>
         <mxCell id="z0g3L6iIOSp3KCa-PxZi-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="mp5SlueDhOt9dwxZDaov-7" target="z0g3L6iIOSp3KCa-PxZi-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2599,55 +2599,55 @@
         <mxCell id="z0g3L6iIOSp3KCa-PxZi-7" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 32px;&quot;&gt;&lt;i style=&quot;font-size: 32px;&quot;&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;Prescription&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 32px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ prescriptionID: string&lt;br style=&quot;font-size: 32px;&quot;&gt;+ medicine_name: string&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ dosage: string&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ description: string&lt;/p&gt;&lt;hr style=&quot;font-size: 32px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ get_medicinename: string&lt;br style=&quot;font-size: 32px;&quot;&gt;+ get_dosage: string&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+get_prescription&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=32;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="205" y="2680" width="530" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="VOaMfTNnocSBVXyFQwyj-1" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 32px;&quot;&gt;&lt;i style=&quot;font-size: 32px;&quot;&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;Report&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 32px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ reportID: string&lt;br style=&quot;font-size: 32px;&quot;&gt;+ generateddate: date&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ generateedtime: time&lt;/p&gt;&lt;hr style=&quot;font-size: 32px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ generateReports&lt;br style=&quot;font-size: 32px;&quot;&gt;+ updateReports&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=32;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="VOaMfTNnocSBVXyFQwyj-1" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 32px;&quot;&gt;&lt;i style=&quot;font-size: 32px;&quot;&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;Report&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 32px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ reportID: string&lt;br style=&quot;font-size: 32px;&quot;&gt;+ generateddate: date&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ generateedtime: time&lt;/p&gt;&lt;hr style=&quot;font-size: 32px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ generateReports&lt;br style=&quot;font-size: 32px;&quot;&gt;+ updateReports&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=32;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="855" y="2360" width="530" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="VOaMfTNnocSBVXyFQwyj-2" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 32px;&quot;&gt;&lt;i style=&quot;font-size: 32px;&quot;&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;Inventory&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 32px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ medicineID: string&lt;br style=&quot;font-size: 32px;&quot;&gt;+ medicine_name: string&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ description: string&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ buyingPrice: string&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ sellingPrice: string&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ Quantity: int&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 4px;&quot;&gt;+ mfg_date: date&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 4px;&quot;&gt;+ exp_date: date&lt;/p&gt;&lt;hr style=&quot;font-size: 32px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ addItem&lt;br style=&quot;font-size: 32px;&quot;&gt;+ deleteItem&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ updateItem&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=32;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="VOaMfTNnocSBVXyFQwyj-2" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 32px;&quot;&gt;&lt;i style=&quot;font-size: 32px;&quot;&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;Inventory&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 32px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ medicineID: string&lt;br style=&quot;font-size: 32px;&quot;&gt;+ medicine_name: string&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ description: string&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ buyingPrice: string&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ sellingPrice: string&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ Quantity: int&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 4px;&quot;&gt;+ mfg_date: date&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 4px;&quot;&gt;+ exp_date: date&lt;/p&gt;&lt;hr style=&quot;font-size: 32px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ addItem&lt;br style=&quot;font-size: 32px;&quot;&gt;+ deleteItem&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 32px;&quot;&gt;+ updateItem&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=32;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1615" y="2360" width="530" height="590" as="geometry" />
         </mxCell>
-        <mxCell id="VOaMfTNnocSBVXyFQwyj-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="z0g3L6iIOSp3KCa-PxZi-6" target="mp5SlueDhOt9dwxZDaov-6">
+        <mxCell id="VOaMfTNnocSBVXyFQwyj-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="z0g3L6iIOSp3KCa-PxZi-6" target="mp5SlueDhOt9dwxZDaov-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1135" y="1730" as="sourcePoint" />
             <mxPoint x="1185" y="1680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VOaMfTNnocSBVXyFQwyj-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="z0g3L6iIOSp3KCa-PxZi-7" target="z0g3L6iIOSp3KCa-PxZi-6">
+        <mxCell id="VOaMfTNnocSBVXyFQwyj-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="z0g3L6iIOSp3KCa-PxZi-7" target="z0g3L6iIOSp3KCa-PxZi-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1135" y="2580" as="sourcePoint" />
             <mxPoint x="1185" y="2530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VOaMfTNnocSBVXyFQwyj-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="z0g3L6iIOSp3KCa-PxZi-6" target="mp5SlueDhOt9dwxZDaov-7">
+        <mxCell id="VOaMfTNnocSBVXyFQwyj-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="z0g3L6iIOSp3KCa-PxZi-6" target="mp5SlueDhOt9dwxZDaov-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1135" y="1730" as="sourcePoint" />
             <mxPoint x="1185" y="1680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VOaMfTNnocSBVXyFQwyj-6" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="z0g3L6iIOSp3KCa-PxZi-6">
+        <mxCell id="VOaMfTNnocSBVXyFQwyj-6" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="z0g3L6iIOSp3KCa-PxZi-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1135" y="1730" as="sourcePoint" />
             <mxPoint x="1535" y="2120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VOaMfTNnocSBVXyFQwyj-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="mp5SlueDhOt9dwxZDaov-8">
+        <mxCell id="VOaMfTNnocSBVXyFQwyj-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" target="mp5SlueDhOt9dwxZDaov-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1535" y="2120" as="sourcePoint" />
             <mxPoint x="2045" y="1680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VOaMfTNnocSBVXyFQwyj-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="mp5SlueDhOt9dwxZDaov-8">
+        <mxCell id="VOaMfTNnocSBVXyFQwyj-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="mp5SlueDhOt9dwxZDaov-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1615" y="2170" as="sourcePoint" />
             <mxPoint x="1615" y="1970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VOaMfTNnocSBVXyFQwyj-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="VOaMfTNnocSBVXyFQwyj-1">
+        <mxCell id="VOaMfTNnocSBVXyFQwyj-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="VOaMfTNnocSBVXyFQwyj-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1565" y="2020" as="sourcePoint" />
             <mxPoint x="1615" y="2170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VOaMfTNnocSBVXyFQwyj-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mp5SlueDhOt9dwxZDaov-8" target="VOaMfTNnocSBVXyFQwyj-2">
+        <mxCell id="VOaMfTNnocSBVXyFQwyj-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="mp5SlueDhOt9dwxZDaov-8" target="VOaMfTNnocSBVXyFQwyj-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1555" y="2210" as="sourcePoint" />
             <mxPoint x="1605" y="2160" as="targetPoint" />
